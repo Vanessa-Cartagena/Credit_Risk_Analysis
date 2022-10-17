@@ -21,5 +21,6 @@ ClusterCentroids
 
 <img width="786" alt="Screen Shot 2022-10-17 at 2 43 11 PM" src="https://user-images.githubusercontent.com/105958160/196257500-101da2a0-b09b-4fee-9697-e455905e5d45.png">
 
+## Summary
 Based on the models we examined for this challenge, the Easy Ensemble Adaboost Classifer model predicted "High Risk candidates" with an accuracy rate of 93.17%, a precision rate of 9%, and a recall rate of 94%. This model received the highest results. The least number of high-risk loans would be able to get through undetected using this approach. So, I recommend utilizing this module.
 
